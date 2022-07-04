@@ -19,6 +19,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "engines": {
+    "npm": "~1.0.20"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -37,4 +40,5 @@
       "last 1 safari version"
     ]
   }
+  
 }
